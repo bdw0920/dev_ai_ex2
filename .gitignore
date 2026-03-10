@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+__pb2.py
+*.pb2.py
+
+n# Local environment
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+.git/
+*.swp
+*.swo
